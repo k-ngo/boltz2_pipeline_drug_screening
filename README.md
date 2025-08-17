@@ -2,7 +2,9 @@
 
 Welcome to our interactive platform for rapid, deep learning-driven pharmacogenomic analysis. This tool, implemented as a Google Colab notebook, leverages the power of the **Boltz-2 structure prediction model** to assess how genetic mutations affect drug binding. It provides an end-to-end solution for researchers in computational biology, pharmacology, and precision medicine. This repository contains the open-source code to replicate our findings and to use this tool for your own research.
 
-Link to the Colab notebook: https://colab.research.google.com/drive/1tUon8MrjdjtpE6pSUMcGQ86WYWqXCIBn?usp=sharing
+<a target="_blank" href="https://colab.research.google.com/drive/1tUon8MrjdjtpE6pSUMcGQ86WYWqXCIBn?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ---
 
